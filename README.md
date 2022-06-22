@@ -5,6 +5,5 @@ These are projects created during the course of Fall 2021 at ASU BIO355 with Pro
 
 Topics studied in chronological order:
 1. Storing and working with sequences in python/jupyter notebooks 
-2. Working with data in NCBI
+2. Working with data in NCBI, data managment to google cloud
 3. Needlman-Wunch Algorithms for pairwise matching and sequencing
-(In Progress/Updating)
